@@ -33,6 +33,19 @@ A gender-based analysis of substance abuse patterns using Python 🐍. This proj
 ## 📚 **Dataset**
 - **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Drug+Consumption+%28quantified%29)
 - Drug Consumption (Quantified) dataset with demographics including gender.
+## 📊 Results
+
+- ✅ **No significant difference** in Alcohol use by gender (p = 0.6080).
+- ✅ **Significant difference** in Amphetamines use by gender (p = 0.0000).
+- ✅ **Significant difference** in Amyl Nitrite use by gender (p = 0.0000).
+- ✅ **Significant difference** in Benzodiazepines use by gender (p = 0.0000).
+- ❌ No significant difference in Chocolate use by gender (p = 0.1100).
+
+This analysis shows that **certain substances exhibit strong gender-based usage patterns**, while others do not.
+
+---
+
+
 
 
 
